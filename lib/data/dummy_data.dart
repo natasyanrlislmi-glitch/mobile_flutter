@@ -1,7 +1,7 @@
 import '../models/models.dart';
 
 const defaultProfile = Profile(
-  name: 'Fakhry Firdaus',
+  name: 'Natasya Nurul Islami',
   bio: 'Software Engineer & Dosen. Suka berbagi ilmu tentang Flutter '
       'dan pengembangan aplikasi mobile.',
 );
